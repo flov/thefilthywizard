@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Our Busking Group In Melbourne
+title: Our Busking Crew In Melbourne
 category: Busking
 tags: [ 'contact juggling', 'busking', 'Melbourne' ]
 ---
