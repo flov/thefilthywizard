@@ -16,6 +16,22 @@
       {% for page in site.pages %}
         {% if p[1] == page.section-type %}
           {% include {{ page.path }} %}
+
+          
+          {% if p[1] == 'about' %}
+            <div class="row" style="margin-right:0;margin-left:0;">
+              <img src="/thefilthywizard/img/burning_ball_bg.jpg" style="width: 100%; ">
+            </div>
+          {% elsif p[1] == 'latest-post' %}
+            <div class="row" style="margin-right:0;margin-left:0;">
+              <img src="/thefilthywizard/img/contact_background.jpg" style="width: 100%; ">
+            </div>
+          {% elsif p[1] == 'contact' %}
+            <div class="row" style="margin-right:0;margin-left:0;">
+              <img src="/thefilthywizard/img/ball_bg.jpg" style="width: 100%; ">
+            </div>
+          {% endif %}
+          
         {% endif %}
       {% endfor %}
     {% endfor %}
