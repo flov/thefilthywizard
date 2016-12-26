@@ -244,7 +244,7 @@ a {
         max-width: 100%;
         height: auto;
         margin: 0 auto;
-        border: 1px solid $font-color;
+        border: 0;
     }
     /* Added in { Personal } */
     ul,
@@ -444,4 +444,11 @@ body {
 
 .fourofour {
   border: 1px solid $primary-color !important;
+}
+
+.image_hr {
+  width: 100%;
+  margin-top: 125px;
+  padding-top: 125px;
+  margin-top: 125px;
 }
