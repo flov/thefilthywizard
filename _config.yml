@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "http://localhost:4000/thefilthywizard"
+url: "http://www.flow-wizard.xyz"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -12,7 +12,7 @@ url: "http://localhost:4000/thefilthywizard"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /thefilthywizard
+baseurl: /
 
 # Google tracking id
 
