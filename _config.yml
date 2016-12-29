@@ -31,8 +31,8 @@ force-https: false
 lang: "en"
 author: "The Flow Wizard"
 title: "✨ The Flow Wizard ✨"
-description: "Blog of the filthy wizard"
-keywords: "the filthy wizard, artist, contact juggling, object manipulation"
+description: "Blog Of The Flow Wizard"
+keywords: "the flow wizard, artist, contact juggling, object manipulation"
 favicon: "/img/favicon.ico"
 
 ################
