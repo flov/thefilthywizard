@@ -115,7 +115,7 @@ email: ""
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "The juiciness dictates the groove."
+author_blurb: "Two balls are not enough"
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -158,6 +158,6 @@ paginate_path: "blog/page:num/"
 sass:
   style: compressed
 
-gems:
+plugins:
   - jekyll-paginate
   - jemoji
