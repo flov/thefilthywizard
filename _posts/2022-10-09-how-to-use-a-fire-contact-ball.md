@@ -111,7 +111,7 @@ you can also just have it in your flat palm. You usually have a couple of
 seconds until it gets too hot. When it gets too hot you can transition into the
 other hand or the the tips of your fingers.
 
-A wizard has done this video will showcase some of the moves I am doing. 
+I have done this video which showcases some of the moves that I am doing. 
 These moves are my moves, and not the only moves you can do. I am sure there are
 many more moves that are good for fire contact juggling.
 
