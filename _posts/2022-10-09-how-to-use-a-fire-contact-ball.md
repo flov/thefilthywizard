@@ -16,7 +16,7 @@ So here a wizard shares his experiences with you. What works and what you
 should avoid. What kind of fuel to use and what moves are good when doing fire
 contact juggling. Let's get started. 
 
-### 1. Skill level
+### Skill level
 
 First of all the wizard wishes to make it clear that fire contact juggling is
 *not for beginners*.
@@ -27,7 +27,7 @@ have progressed with body rolls. If you don't have these skills yet,
 there are some great resources on youtube to teach you the ins and outs of
 body rolls.
 
-### 2. Fuel
+### Fuel
 
 Use alcohol at 70%.
 
@@ -46,7 +46,7 @@ before and so on...
 If the sun allows it I would put the ball into the sun the next day and then by
 the time of the next evening it should be dry.
 
-## 3. How to soak it
+## How to soak it
 
 I usually soak the whole ball in isopropanol and by soaking it completely, if
 it's windstill, I get a burntime of about four minutes out of it. My fire
@@ -54,7 +54,7 @@ contact balls have about 3.2m 10mm thick kevlar rope around the ball which makes
 it soak up the liquid really well. At best put a metal plate underneath it while pouring
 the IPA over it to put it back into the bottle if you spill any.
 
-## 4. What to wear
+## What to wear
 
 Do yourself a favour and wear a *long sleeve cotten shirt*.
 You can also just wear a normal shirt, but if you **don't want to lose your
@@ -96,5 +96,4 @@ A wizard has done this video will showcase some of the moves I am doing.
 These moves are my moves, and not the only moves you can do. I am sure there are
 many more moves that are good for fire contact juggling.
 
-🔥🔮✨
-
+## 🔥🔮✨
