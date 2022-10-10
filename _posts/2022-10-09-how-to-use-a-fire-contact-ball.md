@@ -3,6 +3,7 @@ layout: post
 section-type: post
 title: How to use a fire contact ball
 category: fire-contact-juggling
+comments: true
 tags: [ 'fire contact juggling', 'Fire ball', 'Contact Juggling' ]
 ---
 
