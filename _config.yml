@@ -123,6 +123,8 @@ author_blurb_image: "/img/author.png"
 ##################
 
 social:
+  - title: "instagram"
+    url: "https://www.instagram.com/the_flow_wizard/"
   - title: "facebook"
     url: "https://facebook.com/theflowizard"
   - title: "youtube"
