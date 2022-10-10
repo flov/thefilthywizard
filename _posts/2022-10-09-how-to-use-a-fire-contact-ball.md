@@ -98,7 +98,7 @@ conventions and his fire contact ball works really well.
 
 In case you know of any other vendor who sells fire contact balls please write in the comments.
 
-## Moves that are good for contact juggling
+## How to juggle the fire
 
 Rule #1: Always keep the ball moving. When it starts to burn I
 usually do isolation movements like the enigma and hold it
@@ -111,8 +111,10 @@ you can also just have it in your flat palm. You usually have a couple of
 seconds until it gets too hot. When it gets too hot you can transition into the
 other hand or the the tips of your fingers.
 
-I have done this video which showcases some of the moves that I am doing. 
-These moves are my moves, and not the only moves you can do. I am sure there are
-many more moves that are good for fire contact juggling.
+A wizard has done this video to showcase some of the moves. 
+These moves are the wizard's moves and not the only moves you can do.
+There surely are more moves that are good for fire contact juggling.
 
 ## 🔥🔮✨
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w47ZfNQ0QtA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
